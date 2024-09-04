@@ -15,4 +15,6 @@ O Projeto Livro é uma página web para a divulgação de um livro, os usuarios 
 - CSS
 
 ## Instalação
-1. Clone o repositório do projeto: `git clone https://github.com/seu-usuario/projeto-livro.git`
+1. Clone o repositório do projeto: `git clone https://github.com/wastenio/ProjetoLivro.git`
+2. Navegue ate a pasta do projeto no seu computador.
+3. Execute o arquivo index da pasta.
